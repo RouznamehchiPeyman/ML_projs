@@ -1,0 +1,8 @@
+,Method,Accuracy
+0,DecisionTreeClassifier,0.7708646616541354
+1,KNeighborsClassifier,0.753896103896104
+2,naiveBayes_GaussianNB,0.7410287081339713
+3,LogisticRegression,0.7662337662337663
+4,Neural Network,0.7694976076555023
+5,SVM,0.7643711551606289
+6,RandomForest,1.0
