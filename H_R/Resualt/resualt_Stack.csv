@@ -1,0 +1,16 @@
+,,Accuracy Resualt
+DecisionTreeClassifier,K-Fold:cv =10,0.982986864053378
+DecisionTreeClassifier,Train:0.8-Test:0.2,0.9691538140892039
+DecisionTreeClassifier,VIF,0.972488536890371
+KNeighborsClassifier,K-Fold:cv =10,0.9593033083124827
+KNeighborsClassifier,Train:0.8-Test:0.2,0.952897040433514
+naiveBayes_GaussianNB,K-Fold:cv =10,0.8185315540728384
+naiveBayes_GaussianNB,Train:0.8-Test:0.2,0.8399333055439766
+LogisticRegression,K-Fold:cv =10,0.8153591882123992
+LogisticRegression,Train:0.8-Test:0.2,0.822426010837849
+LogisticRegression,VIF,0.8199249687369737
+Neural Network,K-Fold:cv =10,0.9698108840700584
+Neural Network,Train:0.8-Test:0.2,0.976240100041684
+SVM,K-Fold:cv =10,0.7190407978871283
+SVM,Train:0.8-Test:0.2,0.7298874531054607
+RandomForest,Train:0.8-Test:0.2,0.9985404503753128
